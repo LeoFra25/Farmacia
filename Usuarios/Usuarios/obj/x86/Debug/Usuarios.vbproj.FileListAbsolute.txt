@@ -1,0 +1,15 @@
+c:\users\usuario\documents\visual studio 2010\Projects\Usuarios\Usuarios\bin\Debug\Usuarios.exe
+c:\users\usuario\documents\visual studio 2010\Projects\Usuarios\Usuarios\bin\Debug\Usuarios.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\Usuarios\Usuarios\bin\Debug\Usuarios.xml
+c:\users\usuario\documents\visual studio 2010\Projects\Usuarios\Usuarios\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2010\Projects\Usuarios\Usuarios\obj\x86\Debug\Usuarios.Form1.resources
+c:\users\usuario\documents\visual studio 2010\Projects\Usuarios\Usuarios\obj\x86\Debug\Usuarios.Resources.resources
+c:\users\usuario\documents\visual studio 2010\Projects\Usuarios\Usuarios\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\usuario\documents\visual studio 2010\Projects\Usuarios\Usuarios\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\usuario\documents\visual studio 2010\Projects\Usuarios\Usuarios\obj\x86\Debug\Usuarios.exe
+c:\users\usuario\documents\visual studio 2010\Projects\Usuarios\Usuarios\obj\x86\Debug\Usuarios.xml
+c:\users\usuario\documents\visual studio 2010\Projects\Usuarios\Usuarios\obj\x86\Debug\Usuarios.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Usuarios\Usuarios\obj\x86\Debug\Usuarios.Registro.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Usuarios\Usuarios\obj\x86\Debug\Usuarios.Form2.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Usuarios\Usuarios\obj\x86\Debug\Usuarios.Principal.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Usuarios\Usuarios\bin\Debug\Usuarios.exe.config
